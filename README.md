@@ -3,14 +3,16 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
-A function has been created for the user to guess a letter that iterates until the user input is correct.
-A function has been created for the guessed letter to be checked against the computers random choosen word. 
+A function has been created for the user to guess a letter that iterates until the user input is correct. A function has been created for the guessed letter to be checked against the computers random choosen word. 
+
+Changes have been made to the previous functions to add information about the letter guessed and lives left. Stilll only does one iteration though.
+
 
 The user is informed if their guessed letter is a good guess or not.
 
 This is the update as per task 5: Milestone2.
 This is the update as per task 4: Milestone3.
-
+This is the update as per task 5: Milestone4.
 
 ## This is what it will contain
 Project Title
