@@ -6,7 +6,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 A function has been created for the user to guess a letter that iterates until the user input is correct. A function has been created for the guessed letter to be checked against the computers random choosen word. 
 
 Changes have been made to the previous functions to add information about the letter guessed and lives left. Stilll only does one iteration though.
-Changes have been made to the previous code to add a function to loop through the game to either a win or lose situation.
+Changes have been made to the previous code to add a function to loop through the game to either a win or lose situation. This is also now been ammended to take account of multiple occurances of letters.
 
 The user is informed if their guessed letter is a good guess or not.
 
